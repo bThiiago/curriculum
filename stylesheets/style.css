@@ -15,10 +15,10 @@ body {
 	-webkit-overflow-scrolling: touch;
 }
 
-.img-responsiv{
-	display:block;
-	max-width:69.5%;
-	height:auto;
+.img-responsiv {
+	display: block;
+	max-width: 69.5%;
+	height: auto;
 	align-content: center;
 }
 
