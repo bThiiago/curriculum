@@ -1,4 +1,3 @@
-# Laboratório
-Projeto site para curriculo | IFSP - Bacharel em Ciência da Computação |
+Projeto site para curriculo | IFSP - Bacharelado em Ciência da Computação |
 
 https://bthiiago.github.io/curriculum/
